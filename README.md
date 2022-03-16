@@ -1,4 +1,4 @@
-# google-analytics-nextjs-react
+# google-analytics-nextjs
 
 An example NextJS app to demonstrate the basic setup required for Google Analytics page tracking.
 
